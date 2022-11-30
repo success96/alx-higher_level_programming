@@ -1,2 +1,2 @@
-# alx-higher_level_programming-master
+# alx-higher_level_programming
 ALX SE Internship 
