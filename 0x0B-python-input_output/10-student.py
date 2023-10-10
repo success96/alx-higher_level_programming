@@ -1,16 +1,16 @@
 #!/usr/bin/python3
-""" 
+"""
 This python script defines a class Student.
 """
 
 
 class Student:
-    """ 
+    """
     This python class represents a student.
     """
 
     def __init__(self, first_name, last_name, age):
-        """ 
+        """
         This helps initialize a new Student.
 
         Args:
@@ -23,7 +23,7 @@ class Student:
         self.age = age
 
     def to_json(self, attrs=None):
-        """ 
+        """
         Get a dictionary representation of the Student.
 
         If attrs is a list of strings, represents only those attributes

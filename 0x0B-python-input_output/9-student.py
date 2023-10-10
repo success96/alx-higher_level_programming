@@ -1,16 +1,12 @@
 #!/usr/bin/python3
-""" 
-This python script defines a class Student.
-"""
+""" This python script defines a class Student."""
 
 
 class Student:
-    """ 
-    This class represents a student.
-    """
+    """ This class represents a student."""
 
     def __init__(self, first_name, last_name, age):
-        """ 
+        """
         Initialize a new Student.
 
         Args:
@@ -23,7 +19,7 @@ class Student:
         self.age = age
 
     def to_json(self):
-        """ 
+        """
         This is a dictionary representation of the Student.
         """
         return self.__dict__
