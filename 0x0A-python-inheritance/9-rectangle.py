@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Class that defines a rectangle from BaseGeometry Class
+"""This script contains a class that defines a rectangle from BaseGeometry Class
 """
 
 
@@ -7,7 +7,7 @@ BaseGeometry = __import__('7-base_geometry').BaseGeometry
 
 
 class Rectangle(BaseGeometry):
-    """ Class that defines a rectangle from BaseGeometry Class """
+    """This class defines a rectangle from BaseGeometry Class"""
 
     def __init__(self, width, height):
         """ Initializes instance """
@@ -17,9 +17,9 @@ class Rectangle(BaseGeometry):
         self.__height = height
 
     def area(self):
-        """ Method that returns the area of the instance"""
+        """This method returns the area of the instance"""
         return self.__width * self.__height
 
     def __str__(self):
-        """ Special method that returns the printable string """
+        """This special method that returns the printable string """
         return "[Rectangle] {:d}/{:d}".format(self.__width, self.__height)

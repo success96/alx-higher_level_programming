@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-"""This scripts is to create a public instance 
-    on the BaseGeometry class
+"""This scripts is to create a public instance on the BaseGeometry class
 """
 
 

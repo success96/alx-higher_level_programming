@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Class that defined a rectangle from BaseGeometry Class
+""" This script contain a class that defined a rectangle from BaseGeometry Class
 """
 
 
@@ -7,7 +7,7 @@ BaseGeometry = __import__('7-base_geometry').BaseGeometry
 
 
 class Rectangle(BaseGeometry):
-    """ Class that defines a rectangle from BaseGeometry Class """
+    """This class defines a rectangle from BaseGeometry Class """
 
     def __init__(self, width, height):
         """ Initializes instance """
