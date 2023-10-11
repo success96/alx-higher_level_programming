@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-""" Empty class
+""" This python scripts contains an empty class
 """
 
 
 class BaseGeometry:
-    """ Empty class """
+    """This is an Empty class """
     pass

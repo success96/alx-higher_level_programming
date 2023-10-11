@@ -1,9 +1,11 @@
 #!/usr/bin/python3
-""" Empty class
+"""This scripts is to create a public instance 
+    on the BaseGeometry class
 """
 
 
 class BaseGeometry:
-    """ Empty class """
+    """This is a class on BaseGeometry """
+
     def area(self):
         raise Exception("area() is not implemented")
