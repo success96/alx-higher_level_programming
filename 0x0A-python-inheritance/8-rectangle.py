@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-""" This script contain a class that defined a rectangle from BaseGeometry Class
+""" This script contain a class that
+    defines a rectangle from BaseGeometry Class
 """
 
 

@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-""" This scripts contains a class that defines the attributes of Geometric Shapes,
+""" This scripts contains a class that defines
+    the attributes of Geometric Shapes,
     method that defines the area of a geometric shape
     and Method that receives the value property
 """

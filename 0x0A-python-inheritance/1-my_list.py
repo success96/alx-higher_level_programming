@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-""" This scripts contains a Class that inherits the attributes references of class list
+""" This scripts contains a Class that inherits
+    the attributes references of class list
 """
 
 
